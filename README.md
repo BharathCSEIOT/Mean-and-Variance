@@ -57,15 +57,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-
-
-
-
-
-
-
-
-
 Name: BHARATH K
 Reg.No: 212222110006
 ```
